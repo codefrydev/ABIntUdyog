@@ -1,14 +1,14 @@
 [
-  {
+ {
         "Product":{
-            "Name":"Do Number (No.2) (1 Trailer)",
-            "Price":"₹9,500.00",
-            "OriginalPrice":"₹15,700.00",
+            "Name":"Mitha - 1500 Bricks (1 Trailer)",
+            "Price":"₹13,500.00",
+            "OriginalPrice":"₹16,700.00",
             "PercentDiscount":"30%",
             "FrameSize":"10.25 x 5.25 x 3.25 inch",
             "BricksSize":"10 x 5 x 3 inch (approx.)",
             "Usage":"Wall/Floor/etc.",
-            "Description":"Do Number (No.2) is the fourth highest quality of red brick. It is the lowest quality of brick among all types of red fired brick having cuboidal shape. It has the lowest compressive strength, below Ek Number (No.1), Mitha and Goriya. ",
+            "Description":"Mitha is the second best quality of red brick commonly used in construction of walls. It has cuboid shape and the compressive strength is between Ek Number (No.1) and Do Number (No.2) brick. It is the second strongest form of red brick having cuboidal shape. It can also be used in place of Ek Number (No.1) as a more economical choice.",
             "Note":"For deliveries beyond 3 kms from our brick kiln, carriage charge ",
             "Images":[
                 "https://raw.githubusercontent.com/codefrydev/ABIntUdyog/main/Images/Product/1.png",
@@ -17,8 +17,8 @@
                 "https://raw.githubusercontent.com/codefrydev/ABIntUdyog/main/Images/Product/5.png"
             ],
             "Specification":{
-                "BrickModel":"Do Number (No.2)",
-                "CompressiveStrength":"70 kg/cm^2",
+                "BrickModel":"Mitha",
+                "CompressiveStrength":"90 kg/cm^2",
                 "Brand":"A.B Int Udyog",
                 "BricksShape":"Cuboid",
                 "MainIndegredents":"Clay",
